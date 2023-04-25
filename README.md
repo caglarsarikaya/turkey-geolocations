@@ -5,8 +5,12 @@ bir hata listesi oluşturdum, elimde 3 farklı koordinat lsitesi vardı bunlarda
 
 kaynaklarım
 https://github.com/melihkorkmaz/il-ilce-mahalle-geolocation-rest-api
+
 https://simplemaps.com/country/tr/
+
 https://gist.github.com/abdullahoguk/ee03c26a23dca6eda9c480b4967e77b6
+
 https://gist.github.com/ismailbaskin/2492196
+
 
 buralardan toplayarak kullanacağım şekilde oluşturdum.
