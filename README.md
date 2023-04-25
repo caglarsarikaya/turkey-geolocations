@@ -4,6 +4,7 @@ türkiyedeki tüm illerin, ilçelerin ve mahallelerin listesini bulabilirsiniz. 
 bir hata listesi oluşturdum, elimde 3 farklı koordinat lsitesi vardı bunlardan en doğru sonuç verenini birinci sırada eşleştirerek koordinatları doldurdum, ancak bazı bölgeler eksikti onlarıda doğruluk oranı daha düşük bir listeden doldurdum., Doğruluk oranı düşük olanlar err.json içinde yer alıyorlar, eğer onların doğru koordinatlarını bulup burada da güncelleme yapmak isterseniz şimdiden teşekkür ederim.
 
 kaynaklarım
+
 https://github.com/melihkorkmaz/il-ilce-mahalle-geolocation-rest-api
 
 https://simplemaps.com/country/tr/
